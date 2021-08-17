@@ -1,2 +1,6 @@
 # nmelody - Учебный проект
-Проект выполнил George Harlekin
+##Проект выполнил George Harlekin
+### Технология
+HTML
+CSS
+JS
