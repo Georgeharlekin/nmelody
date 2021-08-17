@@ -1,2 +1,2 @@
-# nmelody
-Учебный проект
+# nmelody - Учебный проект
+Проект выполнил George Harlekin
